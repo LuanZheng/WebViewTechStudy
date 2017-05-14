@@ -214,6 +214,7 @@
     <Content Include="Content\css\loading.css" />
     <Content Include="Content\js\getUserInfo.js" />
     <Content Include="Content\js\jquery-3.2.1.min.js" />
+    <Content Include="Content\js\mask.js" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
