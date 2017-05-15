@@ -12,6 +12,7 @@ namespace AjaxStudy.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.AppId = "1";
             return View();
         }
 

@@ -80,18 +80,18 @@ D:\Project\Tools\AjaxStudy\AjaxStudy\bin\Microsoft.Owin.Security.MicrosoftAccoun
 D:\Project\Tools\AjaxStudy\AjaxStudy\obj\Debug\AjaxStudy.dll
 D:\Project\Tools\AjaxStudy\AjaxStudy\obj\Debug\AjaxStudy.pdb
 D:\Project\Tools\AjaxStudy\AjaxStudy\obj\Debug\AjaxStudy.csprojResolveAssemblyReference.cache
-D:\Project\Tools\WebViewTechStudy\AjaxStudy\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\Project\Tools\WebViewTechStudy\AjaxStudy\bin\roslyn\System.Collections.Immutable.dll
-D:\Project\Tools\WebViewTechStudy\AjaxStudy\bin\roslyn\VBCSCompiler.exe
 D:\Project\Tools\WebViewTechStudy\AjaxStudy\bin\ApplicationInsights.config
 D:\Project\Tools\WebViewTechStudy\AjaxStudy\bin\roslyn\csc.exe
 D:\Project\Tools\WebViewTechStudy\AjaxStudy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 D:\Project\Tools\WebViewTechStudy\AjaxStudy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\Tools\WebViewTechStudy\AjaxStudy\bin\roslyn\Microsoft.CodeAnalysis.dll
 D:\Project\Tools\WebViewTechStudy\AjaxStudy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 D:\Project\Tools\WebViewTechStudy\AjaxStudy\bin\roslyn\Microsoft.CSharp.Core.targets
 D:\Project\Tools\WebViewTechStudy\AjaxStudy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\Tools\WebViewTechStudy\AjaxStudy\bin\roslyn\System.Collections.Immutable.dll
 D:\Project\Tools\WebViewTechStudy\AjaxStudy\bin\roslyn\System.Reflection.Metadata.dll
 D:\Project\Tools\WebViewTechStudy\AjaxStudy\bin\roslyn\vbc.exe
+D:\Project\Tools\WebViewTechStudy\AjaxStudy\bin\roslyn\VBCSCompiler.exe
 D:\Project\Tools\WebViewTechStudy\AjaxStudy\bin\roslyn\VBCSCompiler.exe.config
 D:\Project\Tools\WebViewTechStudy\AjaxStudy\bin\AjaxStudy.dll.config
 D:\Project\Tools\WebViewTechStudy\AjaxStudy\bin\AjaxStudy.dll
@@ -161,3 +161,4 @@ D:\Project\Tools\WebViewTechStudy\AjaxStudy\bin\Microsoft.Owin.Security.Twitter.
 D:\Project\Tools\WebViewTechStudy\AjaxStudy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\Project\Tools\WebViewTechStudy\AjaxStudy\obj\Debug\AjaxStudy.dll
 D:\Project\Tools\WebViewTechStudy\AjaxStudy\obj\Debug\AjaxStudy.pdb
+D:\Project\Tools\WebViewTechStudy\AjaxStudy\obj\Debug\AjaxStudy.csprojResolveAssemblyReference.cache
